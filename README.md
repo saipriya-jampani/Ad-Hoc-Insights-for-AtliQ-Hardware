@@ -6,7 +6,7 @@
 The goal is to analyze specific ad-hoc data requests from the management team, providing valuable insights that can guide data-informed decision-making and strategic planning.
 
 ## Overview:
-Atliq Hardwares, a leading computer hardware producer in India and internationally, seeks to enhance its data analytics capabilities. The management has identified a gap in quick access to actionable insights, prompting the need for junior data analysts. As an applicant, I will review a document containing 10 ad-hoc requests, develop SQL queries to extract relevant data, and present the findings in a clear and engaging format tailored to top-level management. This presentation will emphasize not only the technical analysis but also the storytelling aspect, ensuring the insights are easily understood and actionable.
+Atliq Hardware, a leading computer hardware producer in India and internationally, seeks to enhance its data analytics capabilities. The management has identified a gap in quick access to actionable insights, prompting the need for junior data analysts. As an applicant, I will review a document containing 10 ad-hoc requests, develop SQL queries to extract relevant data, and present the findings in a clear and engaging format tailored to top-level management. This presentation will emphasize not only the technical analysis but also the storytelling aspect, ensuring the insights are easily understood and actionable.
 
 ## Task: 
 
